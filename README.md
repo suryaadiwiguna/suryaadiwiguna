@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">Transitioning from a Software Product Manager with 5+ years of experiences into a Software Developer.</h3>
+<h3>Transitioning from a Software Product Manager with 5+ years of experiences into a Software Developer.</h3>
 <p>Hi! I'm Surya, transitioning from a Product Manager role to fulfill my long-standing passion as a Software Engineer. 
 
 With over 5 years of experience in project and product management within the information technology industry, I bring strong organizational, problem-solving, and product craftmanship skills to the table. 
