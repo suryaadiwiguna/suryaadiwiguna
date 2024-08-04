@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">Transitioning from a Software Product Manager with 5+ years of experiences into a Software Developer.</h3>
+<p>Hi! I'm Surya, transitioning from a Product Manager role to fulfill my long-standing passion as a Software Engineer. 
+
+With over 5 years of experience in project and product management within the information technology industry, I bring strong organizational, problem-solving, and product craftmanship skills to the table. 
+
+I enrolled in a 6-month intensive Full Stack Web Development Bootcamp at [Purwadhika](https://translate.google.com/translate?sl=id&tl=en&hl=en&u=https://purwadhika.com/en/job-connector/fullstack-web-development&client=webapp), where I'm honing my skills in coding, algorithm design, data structures, and software development methodologies.</p>
 
 - 👨‍💻 All of my projects are available at [https://fuschia-tumbleweed-944.notion.site/Surya-s-Portfolio-b0682532dc634dd5a2d4d824954c78e8?pvs=4](https://fuschia-tumbleweed-944.notion.site/Surya-s-Portfolio-b0682532dc634dd5a2d4d824954c78e8?pvs=4)
 
